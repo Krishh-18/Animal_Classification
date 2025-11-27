@@ -15,6 +15,7 @@ imageInput.addEventListener("change", (e) => {
     preview.style.display = "block";
 });
 
+
 // Predict
 predictBtn.addEventListener("click", async () => {
     if (!selectedImage) {
