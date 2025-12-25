@@ -35,6 +35,7 @@ CLASS_NAMES = [
     "wolf",
 ]
 
+
 IMG_SIZE = (224, 224)
 
 @app.route("/")
