@@ -17,6 +17,7 @@ selected_classes = [
     "crow", "dolphin", "shark", "whale", "chimpanzee"
 ]
 
+
 # Create destination folder if not exists
 os.makedirs(destination_path, exist_ok=True)
 
